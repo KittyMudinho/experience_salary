@@ -26,7 +26,6 @@ Durante o desenvolvimento, após remover uma **inconsistência lógica** (salár
 > — **Rodgers, J. L., & Nicewander, W. A. (1988)**
 
 ## 🔍 Principais Insights
-*   **Saneamento de Dados:** A remoção de inconsistências reduziu o R² de um "sortudo" 0.74 (com erro) para um robusto 0.65.
 *   **Representatividade:** A igualdade entre o Pearson ao quadrado e o R² confirma que o *split* de treino e teste representa fielmente o dataset original.
 *   **Métricas de Erro:** O MAE (Mean Absolute Error) de 4.23 reflete a dispersão real do mercado de trabalho contida nos dados.
 
